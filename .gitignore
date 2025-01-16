@@ -1,0 +1,8 @@
+data/
+logs/
+*.swp
+*.log
+.pytest_cache/
+*.json
+__pycache__/
+*.pyc
